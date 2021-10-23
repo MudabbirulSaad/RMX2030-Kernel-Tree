@@ -35,7 +35,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := RMX2030
 PRODUCT_NAME := omni_RMX2030
-PRODUCT_BRAND := realme
-PRODUCT_MODEL := realme 5i
-PRODUCT_MANUFACTURER := realme
-PRODUCT_RELEASE_NAME := realme 5i
+PRODUCT_BRAND := Realme
+PRODUCT_MODEL := Realme 5i
+PRODUCT_MANUFACTURER := Realme
+PRODUCT_RELEASE_NAME := RMX2030
